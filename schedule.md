@@ -10,7 +10,7 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Purpose
 
-- Get aquainted with I2
+- Get acquainted with I2
 - Learn some of the pre-reqs necessary (Python, calculus, linear algebra)
 
 ### Resources
@@ -33,7 +33,7 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Purpose
 
-- Get aquainted with I2
+- Get acquainted with I2
 - Learn some of the pre-reqs necessary (Python, calculus, linear algebra)
 
 ### Resources
@@ -266,4 +266,4 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ---
 
-Please let me know if there's any changes you'd reccommend! This is meant to help everyone - we want what's most effective.
+Please let me know if there's any changes you'd recommend! This is meant to help everyone - we want what's most effective.

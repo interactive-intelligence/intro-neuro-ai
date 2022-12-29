@@ -103,24 +103,25 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Purpose
 
 - Review NN's
-- Work through backprop (optional!)
+- Work through backprop
 
 ### Resources
 
-- [Karpathy micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) (simple version of backprop and how PyTorch works)
-- [CS231n Notes - Neural Networks part:1-3](https://cs231n.github.io/)
+- [Karpathy micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) (simple version of backprop and how PyTorch autograd works). Watch this video (you're going to implement it!)
+- [CS231n Notes - Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/). Optional if you want review or a new explanation of backpropagation. 
 
 ### Assignment
 
-- **Maybe [CS231n two layer neural network and/or features](https://cs231n.github.io/assignments2022/assignment1/#q4-two-layer-neural-network). These are good for manually working through deep learning features.**
-- **Maybe have people write a version of micrograd and then try to train it? This is more difficult, so I'm hesitant it would be good for everyone.**
-- I also like the idea of this being a bit of a "free week", where people have the option of working through micrograd (more math heavy) or try to apply what they've learned to a new problem. We could provide some example problems in this case.
+- Watch and implement micrograd. Use the starter code linked **here**.
+- Implement the ReLU nonlinearity for the Value class. (Note: if you're having a hard time with this, take a look at [this](https://github.com/karpathy/micrograd/blob/master/micrograd/engine.py) code.)
+- Implement and train a small neural network using micrograd. The training, validation, and test data will be included in the starter code. - Try to find the best network you can! You might want to change the learning rate, size of the network, or Note your training, validation, and test loss for your best network.
 
 ### Summary Questions
 
-- Ask something about what should be supervised while training a NN?
-- What are the dangers of using the ReLU function?
-- What can happen with a learning rate that is too large/small?
+- In what direction do gradients flow (with regards to loss)?
+- How do gradients flow through addition? How do they flow through the ReLU function?
+- What was your best loss for the test dataset?
+- Was there something that stood out to you? Something that confused you?
 - What's one resource that was helpful (suggested or found on your own)?
 
 ---

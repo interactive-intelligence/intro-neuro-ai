@@ -84,16 +84,17 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 - Learn about a Neural Net's real-life counterpart!
 
 ### Resources
-
+- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
 - I don't really know
 
 ### Assignment
 
-- I don't really know
+- Work through the Basic Neuroanatomy chapter of the I2 Resources Doc, and answer the synthesis questions as you go. 
+
 
 ### Summary Questions
 
-- Use what is written in the megadoc - Varun did this well
+- Synthesis questions in the I2 Resources Doc
 
 ---
 

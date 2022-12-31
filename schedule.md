@@ -11,12 +11,11 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Purpose
 
 - Get acquainted with I2
-- Learn some of the pre-reqs necessary (Python, calculus, linear algebra)
+- Learn some of the pre-reqs necessary (Python)
 
 ### Resources
 
 - [CS50x Intro to Python Course](https://cs50.harvard.edu/python/2022/). Doing the first lectures and psets would likely be enough to start off with.
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
 - [CS231n notes on Python, Numpy, and Jupyter Notebooks](https://cs231n.github.io/python-numpy-tutorial/)
 
 ### Assignment
@@ -34,12 +33,11 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Purpose
 
 - Get acquainted with I2
-- Learn some of the pre-reqs necessary (Python, calculus, linear algebra)
+- Learn some of the pre-reqs necessary (calculus, linear algebra)
 
 ### Resources
 
-- [CS50x Intro to Python Course](https://cs50.harvard.edu/python/2022/)
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- TODO: ADD CALCULUS AND LINEAR ALGEBRA RESOURCES, derivatives, partial derivatives, vectors, hyperplanes
 
 ### Assignment
 
@@ -61,18 +59,19 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Resources
 
 - [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+  - Unit 1
+  - Unit 2
 - [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
-- **Look at other resources linked in the megadoc**
 
 ### Assignment
 
-- Varun has good ideas about this. I'll ask him.
-- Possibly rip CS231n's first assignments. They were quite good.
+- Complete Units 1 and 2 in the megadoc (synthesis questions included)
+- Scikit-Learn ML Project (in megadoc/github)
+- Basic MNIST Classifier (in megadoc/github)
 
 ### Summary Questions
 
-- See above
-- What's one resource that was helpful (suggested or found on your own)?
+- Synthesis questions in the megadoc 
 
 ---
 
@@ -85,16 +84,16 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Resources
 - [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
-- I don't really know
+  - Unit 3
 
 ### Assignment
 
-- Work through the Basic Neuroanatomy chapter of the I2 Resources Doc, and answer the synthesis questions as you go. 
-
+- Complete Unit 3 in the megadoc (synthesis questions included)
+- Basic Neuroanatomy Project (in megadoc)
 
 ### Summary Questions
 
-- Synthesis questions in the I2 Resources Doc
+- Synthesis questions in the megadoc
 
 ---
 
@@ -103,7 +102,7 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Purpose
 
 - Review NN's
-- Work through backprop
+- Work through backpropagation
 
 ### Resources
 

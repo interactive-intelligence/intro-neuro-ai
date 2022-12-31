@@ -56,7 +56,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
   - Unit 1
   - Unit 2
 - [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
@@ -81,7 +81,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 - Learn about a Neural Net's real-life counterpart!
 
 ### Resources
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
   - Unit 3
 
 ### Assignment
@@ -210,7 +210,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
 - [Spinning Up](https://spinningup.openai.com)
 
 ### Assignment

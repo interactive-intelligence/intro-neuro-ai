@@ -1,8 +1,6 @@
 # I2 Intro Course Schedule
 
-Here's a tentative schedule for the I2 intro group.
-
-Note: I'm still unsure about what material/topics should be covered (and don't want to solely develop the syllabus) - this is a rough draft, open to change.
+Note that this syllabus may evolve as we adapt the course to fit students' needs. Focus on one week at a time!
 
 ---
 

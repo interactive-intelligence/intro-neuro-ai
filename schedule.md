@@ -1,8 +1,6 @@
 # I2 Intro Course Schedule
 
-Here's a tentative schedule for the I2 intro group.
-
-Note: I'm still unsure about what material/topics should be covered (and don't want to solely develop the syllabus) - this is a rough draft, open to change.
+Note that this syllabus may evolve as we adapt the course to fit students' needs. Focus on one week at a time!
 
 ---
 
@@ -11,12 +9,11 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Purpose
 
 - Get acquainted with I2
-- Learn some of the pre-reqs necessary (Python, calculus, linear algebra)
+- Learn some of the pre-reqs necessary (Python)
 
 ### Resources
 
 - [CS50x Intro to Python Course](https://cs50.harvard.edu/python/2022/). Doing the first lectures and psets would likely be enough to start off with.
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
 - [CS231n notes on Python, Numpy, and Jupyter Notebooks](https://cs231n.github.io/python-numpy-tutorial/)
 
 ### Assignment
@@ -34,12 +31,11 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 ### Purpose
 
 - Get acquainted with I2
-- Learn some of the pre-reqs necessary (Python, calculus, linear algebra)
+- Learn some of the pre-reqs necessary (calculus, linear algebra)
 
 ### Resources
 
-- [CS50x Intro to Python Course](https://cs50.harvard.edu/python/2022/)
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- TODO: ADD CALCULUS AND LINEAR ALGEBRA RESOURCES, derivatives, partial derivatives, vectors, hyperplanes
 
 ### Assignment
 
@@ -60,19 +56,20 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 1
+    - Unit 2
 - [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
-- **Look at other resources linked in the megadoc**
 
 ### Assignment
 
-- Varun has good ideas about this. I'll ask him.
-- Possibly rip CS231n's first assignments. They were quite good.
+- Complete Units 1 and 2 in the megadoc (synthesis questions included)
+- Scikit-Learn ML Project (in megadoc/github)
+- Basic MNIST Classifier (in megadoc/github)
 
 ### Summary Questions
 
-- See above
-- What's one resource that was helpful (suggested or found on your own)?
+- Synthesis questions in the megadoc
 
 ---
 
@@ -80,13 +77,14 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Purpose
 Welcome to a beginner's introduction to neuroscience! We will
+
 - Learn several basic regions of the brain
 - Learn fundamentals of the neuron and biological computation
-- Begin to hypothesize about the parallels and divergences of machine learning and the brain
+ -Begin to hypothesize about the parallels and divergences of machine learning and the brain
 
 ### Resources
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
-  - Unit 3, Basic Neuroanatomy
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 3
 
 ### Assignment
 
@@ -95,7 +93,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Summary Questions
 
-- Synthesis questions in the I2 Resources Doc
+- Synthesis questions in the megadoc
 
 ---
 
@@ -104,16 +102,16 @@ Welcome to a beginner's introduction to neuroscience! We will
 ### Purpose
 
 - Review NN's
-- Work through backprop
+- Work through backpropagation
 
 ### Resources
 
 - [Karpathy micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) (simple version of backprop and how PyTorch autograd works). Watch this video (you're going to implement it!)
-- [CS231n Notes - Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/). Optional if you want review or a new explanation of backpropagation. 
+- [CS231n Notes - Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/). Optional if you want review or a new explanation of backpropagation.
 
 ### Assignment
 
-- Watch and implement micrograd. Use the starter code linked **here**.
+- Watch and implement micrograd. Starter code will be released later.
 - Implement the ReLU nonlinearity for the Value class. (Note: if you're having a hard time with this, take a look at [this](https://github.com/karpathy/micrograd/blob/master/micrograd/engine.py) code.)
 - Implement and train a small neural network using micrograd. The training, validation, and test data will be included in the starter code. - Try to find the best network you can! You might want to change the learning rate, size of the network, or Note your training, validation, and test loss for your best network.
 
@@ -177,28 +175,31 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Purpose
 
-- Learn about language modeling
-- Learn about autoregressive models
-- Learn about transformers
+- Learn about language modeling and autoregressive models
+- Get a basic idea about how Transformer models work
 - Learn about fine-turning foundation models
 
 ### Resources
 
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [MinGPT](https://github.com/karpathy/minGPT), simple code for a GPT model
-- **Carter will find more resources as needed in the coming days**
+**These are suggested resources this week - feel free to use them all, skim them, or find others!**
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - the [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper annotated with PyTorch.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) Another good explanation of Transformers.
+- [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
+- [Blog posts](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html) by Carter explaining GPT models (shameless plug).
+- [Fine-tuning Huggingface models](https://www.youtube.com/watch?v=GSt00_-0ncQ). Basic guide on how to fine tune those models. Feel free to use this guide or others (I'll try to find other good ones).
 
 ### Assignment
 
-- Train a model to generate new Pokemon names (given a dataset of real names)
-- Maybe attempt using a regular NN and then a foundation model from another source?
+- Write a couple of sentences about foundation models, Transformers, or self-attention - your choice! Post it in the Discord!
+- Fine-tune a GPT model from Huggingface to generate new Pokemon names! Instructions, dataset, and starter code will be released in the future.
 
 ### Summary Questions
 
 - What can transformers be used for?
-- Describe (masked) self-attention
+- Describe (masked) self-attention.
 - What are some examples of foundation models?
+- What're your favorite generated Pokemon names?
+- Was there something that stood out to you? Something that confused you?
 - What's one resource that was helpful (suggested or found on your own)?
 
 **not sure what else are good questions rn**
@@ -214,7 +215,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1tzLTPxLt93d0RV70gik2K0pr5LbW614q1FXUbKIoUP8/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
 - [Spinning Up](https://spinningup.openai.com)
 
 ### Assignment
@@ -260,7 +261,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Assignment
 
-- Maybe create a summary of what we did?
+- N/A
 
 ### Summary Questions
 

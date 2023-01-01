@@ -243,7 +243,10 @@ This week we take a small break from computation and return to the brain, specif
 
 ### Purpose
 
-- Even more Neuroscience!!!
+This week, we're applying our knowledge. You're building a brain!
+- Understand the connectivity of the brain
+- Compare with the connectivity of analogous computation systems
+- Creatively improvise on existing methods of creating intelligent systems
 
 ### Resources
 - [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
@@ -251,11 +254,12 @@ This week we take a small break from computation and return to the brain, specif
 
 ### Assignment
 
-- I don't really know
+- Complete Unit 3 in the megadoc (synthesis questions included)
+- Basic Neuroanatomy Project (in megadoc)
 
 ### Summary Questions
 
-- I don't really know
+- Synthesis Questions in the megadoc
 
 ---
 

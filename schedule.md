@@ -112,7 +112,7 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Assignment
 
-- Watch and implement micrograd. Use the starter code linked **here**.
+- Watch and implement micrograd. Starter code will be released later.
 - Implement the ReLU nonlinearity for the Value class. (Note: if you're having a hard time with this, take a look at [this](https://github.com/karpathy/micrograd/blob/master/micrograd/engine.py) code.)
 - Implement and train a small neural network using micrograd. The training, validation, and test data will be included in the starter code. - Try to find the best network you can! You might want to change the learning rate, size of the network, or Note your training, validation, and test loss for your best network.
 

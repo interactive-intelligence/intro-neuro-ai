@@ -176,28 +176,31 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Purpose
 
-- Learn about language modeling
-- Learn about autoregressive models
-- Learn about transformers
+- Learn about language modeling and autoregressive models
+- Get a basic idea about how Transformer models work
 - Learn about fine-turning foundation models
 
 ### Resources
 
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [MinGPT](https://github.com/karpathy/minGPT), simple code for a GPT model
-- **Carter will find more resources as needed in the coming days**
+**These are suggested resources this week - feel free to use them all, skim them, or find others!**
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - the [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper annotated with PyTorch.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) Another good explanation of Transformers.
+- [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
+- [Blog posts](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html) by Carter explaining GPT models (shameless plug).
+- [Fine-tuning Huggingface models](https://www.youtube.com/watch?v=GSt00_-0ncQ). Basic guide on how to fine tune those models. Feel free to use this guide or others (I'll try to find other good ones).
 
 ### Assignment
 
-- Train a model to generate new Pokemon names (given a dataset of real names)
-- Maybe attempt using a regular NN and then a foundation model from another source?
+- Write a couple of sentences about foundation models, Transformers, or self-attention - your choice! Post it in the Discord!
+- Fine-tune a GPT model from Huggingface to generate new Pokemon names! Instructions, dataset, and starter code will be released in the future.
 
 ### Summary Questions
 
 - What can transformers be used for?
-- Describe (masked) self-attention
+- Describe (masked) self-attention.
 - What are some examples of foundation models?
+- What're your favorite generated Pokemon names?
+- Was there something that stood out to you? Something that confused you?
 - What's one resource that was helpful (suggested or found on your own)?
 
 **not sure what else are good questions rn**
@@ -259,7 +262,7 @@ Note: I'm still unsure about what material/topics should be covered (and don't w
 
 ### Assignment
 
-- Maybe create a summary of what we did?
+- N/A
 
 ### Summary Questions
 

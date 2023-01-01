@@ -84,7 +84,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Resources
 - [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
-    - Unit 3
+    - Unit 3, Basic Neuroanatomy
 
 ### Assignment
 
@@ -155,11 +155,14 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Purpose
 
-- More Neuroscience!!!
+This week we take a small break from computation and return to the brain, specifically your insanely complex and elegant visual system! We will  
+- Learn the basic anatomical and functional regions of the visual system
+- Compare biological solutions to visual tasks with computational solutions
 
 ### Resources
 
-- I don't really know
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 4, Intro to the Visual System
 
 ### Assignment
 
@@ -187,11 +190,14 @@ Welcome to a beginner's introduction to neuroscience! We will
 - [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
 - [Blog posts](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html) by Carter explaining GPT models (shameless plug).
 - [Fine-tuning Huggingface models](https://www.youtube.com/watch?v=GSt00_-0ncQ). Basic guide on how to fine tune those models. Feel free to use this guide or others (I'll try to find other good ones).
-
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 12, Human Characteristics of the Brain
+  
 ### Assignment
 
 - Write a couple of sentences about foundation models, Transformers, or self-attention - your choice! Post it in the Discord!
 - Fine-tune a GPT model from Huggingface to generate new Pokemon names! Instructions, dataset, and starter code will be released in the future.
+- Bonus Assignment: Task 2 in Unit 12, Human Characteristics of the Brain
 
 ### Summary Questions
 
@@ -212,15 +218,19 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 - Go over basics of RL
 - Learn about Deep Q Learning
+- Learn about 
 
 ### Resources
 
 - [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+  - Unit 6, Reinforcement Learning
+  - Unit 7, Intro to Movement
 - [Spinning Up](https://spinningup.openai.com)
 
 ### Assignment
 
-- View megadoc (Varun wrote a bit about this I think)
+- TODO View megadoc (Varun wrote a bit about this I think)
+- Complete Task 1 from Intro to Movement in the megadoc
 
 ### Summary Questions
 
@@ -236,8 +246,8 @@ Welcome to a beginner's introduction to neuroscience! We will
 - Even more Neuroscience!!!
 
 ### Resources
-
-- I don't really know
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 11, Building a Brain
 
 ### Assignment
 

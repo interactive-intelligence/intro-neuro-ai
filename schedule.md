@@ -155,7 +155,8 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Purpose
 
-This week we take a small break from computation and return to the brain, specifically your insanely complex and elegant visual system! We will  
+This week we take a small break from computation and return to the brain, specifically your insanely complex and elegant visual system! 
+We will  
 - Learn the basic anatomical and functional regions of the visual system
 - Compare biological solutions to visual tasks with computational solutions
 
@@ -166,11 +167,12 @@ This week we take a small break from computation and return to the brain, specif
 
 ### Assignment
 
-- I don't really know
+- Complete the project in Unit 4 in the megadoc
+- Remember to bring your creation to the meeting on Friday!
 
 ### Summary Questions
 
-- I don't really know
+- In the megadoc
 
 ---
 

@@ -44,7 +44,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Resources
 
-- [Linear Algebra Review and Reference](https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
+- [Linear Algebra Review and Reference](https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf) (Just Unit 1)
 - [Vector Basics](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
 - [Hyperplane Definition](https://deepai.org/machine-learning-glossary-and-terms/hyperplane)
 - [Hyperplane Math](https://www.youtube.com/watch?v=xNSR9p9XLt8)
@@ -53,8 +53,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Assignment
 
-- Read Linear Algebra Review and Reference **Unit 1**.
-- Watch videos provided to learn/refresh your math knowledge. 
+- Read/Watch provided resources to learn/refresh your math knowledge. 
 - If you are already familiar with the concepts listed above, feel free to skip them. I would, however, reccomend you explore linear algebra in high dimensional spaces (specifically **hyperplanes**) and revisit **partial derivatives**.
 
 ### Summary Questions

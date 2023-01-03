@@ -13,12 +13,21 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Resources
 
-- [CS50x Intro to Python Course](https://cs50.harvard.edu/python/2022/). Doing the first lectures and psets would likely be enough to start off with.
+- [CS50x Intro to Python Course](https://cs50.harvard.edu/python/2022/)
 - [CS231n notes on Python, Numpy, and Jupyter Notebooks](https://cs231n.github.io/python-numpy-tutorial/)
 
 ### Assignment
 
-- N/A, get familiar with the pre-reqs!
+- Complete units in the CS50x Intro to Python Course **as needed** (If you are confident, feel free to skip a section). I reccomend:
+    - 0: Functions, Variables
+    - 1: Conditionals
+    - 2: Loops
+    - 4: Libraries
+    - 9: Et Cetera
+- Read through CS231n Notes, focusing on:
+    - Containers
+    - Numpy
+    - MatPlotLib
 
 ### Summary Questions
 
@@ -35,11 +44,18 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Resources
 
-- TODO: ADD CALCULUS AND LINEAR ALGEBRA RESOURCES, derivatives, partial derivatives, vectors, hyperplanes
+- [Linear Algebra Review and Reference](https://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
+- [Vector Basics](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
+- [Hyperplane Definition](https://deepai.org/machine-learning-glossary-and-terms/hyperplane)
+- [Hyperplane Math](https://www.youtube.com/watch?v=xNSR9p9XLt8)
+- [Partial Derivatives (Mathematical)](https://www.youtube.com/watch?v=AXqhWeUEtQU)
+- [Partial Derivatives (Graphical)](https://www.youtube.com/watch?v=dfvnCHqzK54)
 
 ### Assignment
 
-- N/A, get familiar with the pre-reqs!
+- Read Linear Algebra Review and Reference **Unit 1**.
+- Watch videos provided to learn/refresh your math knowledge. 
+- If you are already familiar with the concepts listed above, feel free to skip them. I would, however, reccomend you explore linear algebra in high dimensional spaces (specifically **hyperplanes**) and revisit **partial derivatives**.
 
 ### Summary Questions
 

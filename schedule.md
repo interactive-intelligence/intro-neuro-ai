@@ -58,7 +58,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Summary Questions
 
-- N/A
+- Define a hyperplane in a way that helps you understand it conceptually
 
 ---
 
@@ -66,21 +66,21 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ### Purpose
 
-- Introduction to ML
-- Introduction to Neural Networks
+An introduction to the foundation of modern AI!
+- Introduction to Machine Learning (ML)
+- Math behind Linear Regression, SVM, PCA
+- Basic Unsupervised Clustering
 
 ### Resources
 
 - [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 1
-    - Unit 2
 - [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
 
 ### Assignment
 
-- Complete Units 1 and 2 in the megadoc (synthesis questions included)
+- Complete Unit 1 in the megadoc (synthesis questions included)
 - Scikit-Learn ML Project (in megadoc/github)
-- Basic MNIST Classifier (in megadoc/github)
 
 ### Summary Questions
 
@@ -91,8 +91,34 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 ## Week 3: 1/23 - 1/29
 
 ### Purpose
-Welcome to a beginner's introduction to neuroscience! We will
 
+Our first foray into more complex networks and how they learn.
+- Introduction to Deep Learning (DL)
+- Introduction to Neural Networks
+- Introduction to Backpropagation
+
+### Resources
+
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 2
+- [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
+
+### Assignment
+
+- Complete Unit 2 in the megadoc (synthesis questions included)
+- Basic MNIST Classifier (in megadoc/github)
+
+### Summary Questions
+
+- Synthesis questions in the megadoc
+
+---
+
+## Week 4: 1/30 - 2/5
+
+### Purpose
+
+Welcome to a beginner's introduction to neuroscience! We will
 - Learn several basic regions of the brain
 - Learn fundamentals of the neuron and biological computation
  -Begin to hypothesize about the parallels and divergences of machine learning and the brain
@@ -112,7 +138,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ---
 
-## Week 4: 1/30 - 2/5
+## Week 5: 2/6 - 2/12
 
 ### Purpose
 
@@ -140,7 +166,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ---
 
-## Week 5: 2/6 - 2/12
+## Week 6: 2/13 - 2/19
 
 ### Purpose
 
@@ -153,7 +179,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Assignment
 
-- Train on a portion of imagenet? **not sure**
+- Train on a portion of imagenet? **//TODO: Finalize Project**
 
 ### Summary Questions
 
@@ -166,7 +192,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ---
 
-## Week 6: 2/13 - 2/19
+## Week 7: 2/20 - 2/26
 
 ### Purpose
 
@@ -187,11 +213,11 @@ We will
 
 ### Summary Questions
 
-- In the megadoc
+- Synthesis questions in the megadoc
 
 ---
 
-## Week 7: 2/20 - 2/26
+## Week 8: 2/27 - 3/5
 
 ### Purpose
 
@@ -225,17 +251,17 @@ We will
 - Was there something that stood out to you? Something that confused you?
 - What's one resource that was helpful (suggested or found on your own)?
 
-**not sure what else are good questions rn**
+**//TODO: Make more questions**
 
 ---
 
-## Week 8: 2/27 - 3/5
+## Week 9: 3/6 - 3/12
 
 ### Purpose
 
 - Go over basics of RL
 - Learn about Deep Q Learning
-- Learn about 
+- Learn about movement in the context of the brain
 
 ### Resources
 
@@ -246,17 +272,17 @@ We will
 
 ### Assignment
 
-- TODO View megadoc (Varun wrote a bit about this I think)
+- **//TODO View megadoc (Varun wrote a bit about this I think)**
 - Complete Task 1 from Intro to Movement in the megadoc
 
 ### Summary Questions
 
-- View megadoc (paste from megadoc)
+- Synthesis questions in the megadoc
 - What's one resource that was helpful (suggested or found on your own)?
 
 ---
 
-## Week 9: 3/6 - 3/12
+## Week 10: 3/13 - 3/19
 
 ### Purpose
 
@@ -271,7 +297,7 @@ This week, we're applying our knowledge. You're building a brain!
 
 ### Assignment
 
-- Complete Unit 3 in the megadoc (synthesis questions included)
+- Complete Unit 11 in the megadoc (synthesis questions included)
 - Basic Neuroanatomy Project (in megadoc)
 
 ### Summary Questions
@@ -280,24 +306,5 @@ This week, we're applying our knowledge. You're building a brain!
 
 ---
 
-## Week 10: 3/13 - 3/19
-
-### Purpose
-
-- Wrap up the quarter!
-
-### Resources
-
-- N/A
-
-### Assignment
-
-- N/A
-
-### Summary Questions
-
-- N/A
-
----
 
 Please let me know if there's any changes you'd recommend! This is meant to help everyone - we want what's most effective.

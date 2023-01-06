@@ -8,4 +8,5 @@
 - Week 5 conv nets
 - Neuroscience of creativity (Chaytan)
 - Neuroscience of numbers (Chaytan)
+- Reinforcement Learning (Varun)
 

@@ -179,7 +179,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Assignment
 
-- Train on a portion of imagenet? **//TODO: Finalize Project**
+- Train on a portion of imagenet
 
 ### Summary Questions
 

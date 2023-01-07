@@ -251,8 +251,6 @@ We will
 - Was there something that stood out to you? Something that confused you?
 - What's one resource that was helpful (suggested or found on your own)?
 
-**//TODO: Make more questions**
-
 ---
 
 ## Week 9: 3/6 - 3/12
@@ -272,7 +270,6 @@ We will
 
 ### Assignment
 
-- **//TODO View megadoc (Varun wrote a bit about this I think)**
 - Complete Task 1 from Intro to Movement in the megadoc
 
 ### Summary Questions

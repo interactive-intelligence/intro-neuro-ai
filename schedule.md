@@ -75,7 +75,6 @@ An introduction to the foundation of modern AI!
 
 - [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
     - Unit 1
-- [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
 
 ### Assignment
 

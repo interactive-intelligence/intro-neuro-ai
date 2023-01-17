@@ -4,7 +4,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ---
 
-## Week 0: 1/3 - 1/8
+## Week 0: 1/6 - 1/13
 
 ### Purpose
 
@@ -35,7 +35,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ---
 
-## Week 1: 1/9 - 1/15
+## Week 1: 1/13 - 1/20
 
 ### Purpose
 
@@ -62,7 +62,7 @@ Note that this syllabus may evolve as we adapt the course to fit students' needs
 
 ---
 
-## Week 2: 1/16 - 1/22
+## Week 2: 1/20 - 1/27
 
 ### Purpose
 
@@ -87,7 +87,7 @@ An introduction to the foundation of modern AI!
 
 ---
 
-## Week 3: 1/23 - 1/29
+## Week 3: 1/27 - 2/3
 
 ### Purpose
 
@@ -113,7 +113,7 @@ Our first foray into more complex networks and how they learn.
 
 ---
 
-## Week 4: 1/30 - 2/5
+## Week 4: 2/3 - 2/10
 
 ### Purpose
 
@@ -137,7 +137,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ---
 
-## Week 5: 2/6 - 2/12
+## Week 5: 2/10 - 2/17
 
 ### Purpose
 
@@ -165,7 +165,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ---
 
-## Week 6: 2/13 - 2/19
+## Week 6: 2/17 - 2/24
 
 ### Purpose
 
@@ -191,7 +191,7 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ---
 
-## Week 7: 2/20 - 2/26
+## Week 7: 2/24 - 3/3
 
 ### Purpose
 
@@ -216,7 +216,7 @@ We will
 
 ---
 
-## Week 8: 2/27 - 3/5
+## Week 8: 3/3 - 3/10
 
 ### Purpose
 
@@ -252,7 +252,7 @@ We will
 
 ---
 
-## Week 9: 3/6 - 3/12
+## Week 9: 3/10 - 3/17
 
 ### Purpose
 
@@ -278,7 +278,7 @@ We will
 
 ---
 
-## Week 10: 3/13 - 3/19
+## Week 10: 3/17 - 3/24
 
 ### Purpose
 

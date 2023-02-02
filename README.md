@@ -1,4 +1,4 @@
-# Introduction to ML/Neuro Crash Course
+# Introduction to Neuro/AI Crash Course
 
 Hello! Welcome to the introduction to ML/Neuro i2 (Interactive Intelligence) crash course! If you are reading this, you are most likely a member of our club (if not, be sure to ask around and join the discord!)
 

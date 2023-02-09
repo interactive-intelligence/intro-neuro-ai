@@ -130,4 +130,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-unit-1/answers/data/*
+unit-*/answers/data/*

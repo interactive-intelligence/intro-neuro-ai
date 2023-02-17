@@ -174,20 +174,17 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Resources
 
-- [CS231n Notes on CNNs](https://cs231n.github.io/convolutional-networks/)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 5
 
 ### Assignment
 
-- Train on a portion of imagenet
+- Complete Unit 5 in the megadoc (synthesis questions included)
+- ConvNet Project (in megadoc/github)
 
 ### Summary Questions
 
-- What do CNN's do in terms of features?
-- (If we did an assignment on imagenet), what was your maximum accuracy?
-- What is "stride" for a convolutional layer?
-- What is a pooling layer?
-- What is "padding"?
-- What's one resource that was helpful (suggested or found on your own)?
+- Synthesis questions in the megadoc
 
 ---
 

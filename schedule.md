@@ -73,7 +73,7 @@ An introduction to the foundation of modern AI!
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 1
 
 ### Assignment
@@ -98,7 +98,7 @@ Our first foray into more complex networks and how they learn.
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 2
 - [CS231n Notes on Neural Networks.](https://cs231n.github.io/) See Module 1: Neural Networks - great written resource for the basics.
 
@@ -123,7 +123,7 @@ Welcome to a beginner's introduction to neuroscience! We will
  -Begin to hypothesize about the parallels and divergences of machine learning and the brain
 
 ### Resources
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 3, Basic Neuroanatomy
 
 ### Assignment
@@ -151,9 +151,9 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Assignment
 
-- Watch and implement micrograd. Starter code will be released later.
+- Watch and implement micrograd. Starter code is in the unit 3 folder.
 - Implement the ReLU nonlinearity for the Value class. (Note: if you're having a hard time with this, take a look at [this](https://github.com/karpathy/micrograd/blob/master/micrograd/engine.py) code.)
-- Implement and train a small neural network using micrograd. The training, validation, and test data will be included in the starter code. - Try to find the best network you can! You might want to change the learning rate, size of the network, or Note your training, validation, and test loss for your best network.
+- Do the micrograd exercises in the unit 3 folder!
 
 ### Summary Questions
 
@@ -174,20 +174,17 @@ Welcome to a beginner's introduction to neuroscience! We will
 
 ### Resources
 
-- [CS231n Notes on CNNs](https://cs231n.github.io/convolutional-networks/)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
+    - Unit 5
 
 ### Assignment
 
-- Train on a portion of imagenet
+- Complete Unit 5 in the megadoc (synthesis questions included)
+- ConvNet Project (in megadoc/github)
 
 ### Summary Questions
 
-- What do CNN's do in terms of features?
-- (If we did an assignment on imagenet), what was your maximum accuracy?
-- What is "stride" for a convolutional layer?
-- What is a pooling layer?
-- What is "padding"?
-- What's one resource that was helpful (suggested or found on your own)?
+- Synthesis questions in the megadoc
 
 ---
 
@@ -202,7 +199,7 @@ We will
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 4, Intro to the Visual System
 
 ### Assignment
@@ -232,7 +229,7 @@ We will
 - [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
 - [Blog posts](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html) by Carter explaining GPT models (shameless plug).
 - [Fine-tuning Huggingface models](https://www.youtube.com/watch?v=GSt00_-0ncQ). Basic guide on how to fine tune those models. Feel free to use this guide or others (I'll try to find other good ones).
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 12, Human Characteristics of the Brain
   
 ### Assignment
@@ -262,7 +259,7 @@ We will
 
 ### Resources
 
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
   - Unit 6, Reinforcement Learning
   - Unit 7, Intro to Movement
 - [Spinning Up](https://spinningup.openai.com)
@@ -288,7 +285,7 @@ This week, we're applying our knowledge. You're building a brain!
 - Creatively improvise on existing methods of creating intelligent systems
 
 ### Resources
-- [I2 Resources Doc](https://docs.google.com/document/d/1y4t664jcL88Vnwwm_EoTnQF1t2_4IAKEIMh9i7wtzIg/edit?usp=sharing)
+- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
     - Unit 11, Building a Brain
 
 ### Assignment

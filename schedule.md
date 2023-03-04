@@ -229,7 +229,10 @@ All of these are suggested - you can read everything or nothing here:
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - the [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper annotated with PyTorch.
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) Another good explanation of Transformers.
 - [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
-- [Blog posts](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html) by Carter explaining GPT models (shameless plug).
+- Carter [lecture](https://www.youtube.com/watch?v=SBhetnU1O_I) on GPT and
+  attention mechanisms.
+- Annotated blog [post](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html)
+  by Carter of the slides and lecture.
 
   
 ### Assignment

@@ -224,16 +224,15 @@ We will
 
 All of these are suggested - you can read everything or nothing here:
 
+- Annotated blog [post](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html)
+  by Carter of the slides and lecture.
+- Carter [lecture](https://www.youtube.com/watch?v=SBhetnU1O_I) on GPT and
+  attention mechanisms.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) Another good explanation of Transformers.
 - [GPT in 60 lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/) -
   explains GPT in a concise way using code!
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - the [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper annotated with PyTorch.
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) Another good explanation of Transformers.
 - [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
-- Carter [lecture](https://www.youtube.com/watch?v=SBhetnU1O_I) on GPT and
-  attention mechanisms.
-- Annotated blog [post](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html)
-  by Carter of the slides and lecture.
-
   
 ### Assignment
 - Look at the Hugging Face tutorial in the week-8 folder. Run the notebook and

@@ -255,7 +255,7 @@ All of these are suggested - you can read everything or nothing here:
 ### Purpose
 
 - Go over basics of RL
-- Learn about Deep Q Learning
+- Learn about Deep Q Learning, Policy Gradient, and Actor Critic models
 - Learn about movement in the context of the brain
 
 ### Resources
@@ -267,7 +267,8 @@ All of these are suggested - you can read everything or nothing here:
 
 ### Assignment
 
-- Complete Task 1 from Intro to Movement in the megadoc
+- Complete Unit 6 in the megadoc (synthesis questions included)
+- Complete Unit 7 synthesis questions in the megadoc (OPTIONAL)
 
 ### Summary Questions
 

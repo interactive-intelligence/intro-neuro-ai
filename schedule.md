@@ -217,35 +217,36 @@ We will
 
 ### Purpose
 
-- Learn about language modeling and autoregressive models
-- Get a basic idea about how Transformer models work
-- Learn about fine-turning foundation models
+- Learn about fine-turning foundation models like GPT
+- Gain a basic intuition about transformer and language models
 
 ### Resources
 
-**These are suggested resources this week - feel free to use them all, skim them, or find others!**
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - the [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper annotated with PyTorch.
+All of these are suggested - you can read everything or nothing here:
+
+- Annotated blog [post](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html)
+  by Carter of the slides and lecture.
+- Carter [lecture](https://www.youtube.com/watch?v=SBhetnU1O_I) on GPT and
+  attention mechanisms.
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) Another good explanation of Transformers.
+- [GPT in 60 lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/) -
+  explains GPT in a concise way using code!
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - the [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper annotated with PyTorch.
 - [NanoGPT](https://github.com/karpathy/nanoGPT), simple example code for a GPT model.
-- [Blog posts](https://cswartout.com/2022/11/25/intutive-explanation-of-gpt.html) by Carter explaining GPT models (shameless plug).
-- [Fine-tuning Huggingface models](https://www.youtube.com/watch?v=GSt00_-0ncQ). Basic guide on how to fine tune those models. Feel free to use this guide or others (I'll try to find other good ones).
-- [I2 Resources Doc](https://docs.google.com/document/d/1Sv8vHtzgqg4DMKjXRyvoRzjghlzFbDErwvN0DKh8yxk/edit?usp=sharing)
-    - Unit 12, Human Characteristics of the Brain
   
 ### Assignment
-
-- Write a couple of sentences about foundation models, Transformers, or self-attention - your choice! Post it in the Discord!
-- Fine-tune a GPT model from Huggingface to generate new Pokemon names! Instructions, dataset, and starter code will be released in the future.
-- Bonus Assignment: Task 2 in Unit 12, Human Characteristics of the Brain
+- Look at the Hugging Face tutorial in the week-8 folder. Run the notebook and
+  understand the material. If you went to the JC on Hugging Face, this part
+  might be quick!
+- Complete the starter-code.ipynb assignment in the week-8 folder. This involves
+  you fine-tuning a GPT-2 model on Shakespeare.
+- Read one of the suggested resources about transformers, or find one that you
+  think is interesting!
 
 ### Summary Questions
-
-- What can transformers be used for?
-- Describe (masked) self-attention.
-- What are some examples of foundation models?
-- What're your favorite generated Pokemon names?
-- Was there something that stood out to you? Something that confused you?
-- What's one resource that was helpful (suggested or found on your own)?
+- Show some text that your finetuned model generated!
+- What would you like to explore further?
+- What is a resource you read and was there anything interesting in it?
 
 ---
 
@@ -254,7 +255,7 @@ We will
 ### Purpose
 
 - Go over basics of RL
-- Learn about Deep Q Learning
+- Learn about Deep Q Learning, Policy Gradient, and Actor Critic models
 - Learn about movement in the context of the brain
 
 ### Resources
@@ -266,7 +267,8 @@ We will
 
 ### Assignment
 
-- Complete Task 1 from Intro to Movement in the megadoc
+- Complete Unit 6 in the megadoc (synthesis questions included)
+- Complete Unit 7 synthesis questions in the megadoc (OPTIONAL)
 
 ### Summary Questions
 

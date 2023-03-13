@@ -28,3 +28,5 @@ And also:
 - Jupyter notebooks
 - LaTeX
 - Self-learning skills
+
+**Go ahead and check out `schedule.md`!**
